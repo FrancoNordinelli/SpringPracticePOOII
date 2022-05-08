@@ -1,0 +1,10 @@
+logging:
+ config: # Todo: Add config
+ exception-conversion-word: #Todo: Add config
+ file.name: #Todo: Add config
+ file.path: #Todo: Add config
+ pattern:
+   console: #Todo: Add config
+   file: #Todo: Add config
+   level: #Todo: Add config
+   
